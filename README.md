@@ -15,4 +15,4 @@ I am creating this repo at the start of my second year of my masters program.
 
 ## Projects
 
-- [Python Log Analyzer](link-to-your-repository)
+- [Python Log Analyzer]((https://github.com/crewsdel/python-log-analyzer))
